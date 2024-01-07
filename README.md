@@ -6,9 +6,14 @@ Water level sensor on [WeAct CH552 Core Board](https://aliexpress.ru/item/100500
 
 CH552 --- Power supply PCB
 
+    Power
     5V  --- 5V
     GND --- GND
+    
+    Data
     31  --- TX
+    
+    Sensor
     11  --- TP
     GND --- GND
 

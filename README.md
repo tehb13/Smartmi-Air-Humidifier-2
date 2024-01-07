@@ -17,3 +17,4 @@ CH552 --- Power supply PCB
     11  --- TP
     GND --- GND
 
+![](install.jpg)

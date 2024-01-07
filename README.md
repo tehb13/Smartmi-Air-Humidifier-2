@@ -1,2 +1,2 @@
-# Smartmi-Air-Humidifier-2
-Smartmi Air Humidifier 2 - water sensor CH552
+# Smartmi Air Humidifier 2
+Water level sensor on CH552

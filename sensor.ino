@@ -17,7 +17,7 @@ void loop()
   SensorRaw = touchRawValue[1];
   
   if(SensorRaw < 3) SensorMap = 125; 
-  else SensorMap = constrain(map(SensorRaw, 5555, 5, 0, 120), 0, 120);
+  else SensorMap = constrain(map(SensorRaw, 5050, 5, 0, 120), 0, 120);
 
   Tray[11] = SensorMap;
   checksum = 0;
